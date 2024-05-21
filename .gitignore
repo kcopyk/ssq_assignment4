@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore sensitive configuration files
+.env
+
+WebApplication2.sln
